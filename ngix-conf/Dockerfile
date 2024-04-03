@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 nginx:latest as build

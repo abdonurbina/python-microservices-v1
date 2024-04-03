@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 postgres:13.0-alpine as build
