@@ -32,3 +32,8 @@
   "nationality": "United States"
 }
 ```
+## How to run the project
+On a terminal windows/command windows run the following:
+on the root folder of the project
+
+ docker-compose up -d
