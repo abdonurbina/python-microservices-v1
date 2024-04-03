@@ -39,5 +39,6 @@ on the root folder of the project
  docker-compose up -d
  
 ## postman project
+import the collection: fastAPI collection.postman_collection.json
 ![image](postman-image.png)
 click on "view documentation" to load more details
